@@ -4,6 +4,5 @@ array.collect do |lang|
   array2 << lang.upcase
 end
 array2
-
 end 
 
